@@ -29,7 +29,7 @@ tags: [半日谈]
 
 有段日子没和她联系了，我觉得大伙应该都很忙，也就偶尔在朋友圈看看大家动向，有一天打开无畏契约看了看，她说要玩一会，我就说就玩一把，我比较菜。可我倒是前半段Carry了，欢声笑语也是不断，慢慢又说起了生活中的琐事。我一直觉得跟异性做朋友很不容易，可能跟我以前所处的环境相关吧，能有这样一个朋友我也算是三生有幸了。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+“欢喜”于人生而言，算是贯穿始终的，相对的与“悲伤”一样。久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时。有时候
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 
