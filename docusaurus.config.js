@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://hex.mozuta.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Mozuta', // Usually your GitHub org/user name.
+  projectName: 'my-website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Mozuta/my-website',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Mozuta/my-website',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -74,6 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        hideOnScroll: true,
         title: 'Hexite',
         logo: {
           alt: 'My Site Logo',
@@ -81,14 +82,21 @@ const config = {
         },
         items: [
           {
+            //搜索功能待定
+            type: 'search',
+            position: 'right',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Doc',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/serial/intro', label: 'Serial', position: 'left'},
+          
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Mozuta/my-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,26 +109,32 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs-Intro',
                 to: '/docs/intro',
               },
+              {
+                label: 'Docs-Basics',
+                to: '/docs/category/doc---basics',
+              },
+              {
+                label: 'Docs-Extras',
+                to: '/docs/category/doc---extras',
+              },
             ],
+            
           },
           {
-            title: 'Community',
+            title: 'Serials',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Darling Detectives',
+                to: '/docs/category/doc---extras',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Void Veins',
+                to: '/docs/category/doc---extras',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              
             ],
           },
           {
@@ -132,12 +146,15 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Mozuta/my-website',
               },
+              
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}, Mozuta of HEXCOMPANY, Built with Docusaurus.<br /><a href="https://beian.miit.gov.cn">辽ICP备2024038295号</a>`,
+        
+        
       },
       prism: {
         theme: prismThemes.github,

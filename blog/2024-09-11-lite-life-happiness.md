@@ -29,14 +29,20 @@ tags: [半日谈]
 
 有段日子没和她联系了，我觉得大伙应该都很忙，也就偶尔在朋友圈看看大家动向，有一天打开无畏契约看了看，她说要玩一会，我就说就玩一把，我比较菜。可我倒是前半段Carry了，欢声笑语也是不断，慢慢又说起了生活中的琐事。我一直觉得跟异性做朋友很不容易，可能跟我以前所处的环境相关吧，能有这样一个朋友我也算是三生有幸了。
 
-“欢喜”于人生而言，算是贯穿始终的，相对的与“悲伤”一样。久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时。有时候
+“欢喜”于人生而言，算是贯穿始终的，相对的与“悲伤”一样。久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时。最消耗精力活动是什么？是人与人之间的交流与沟通，但如果说你在交流与沟通中没有感觉到这一点，那恭喜你，你很幸运，无论是你本身没有这样的想法抑或是与你交流的那个人非常契合于你的性格，这都是人生始终值得欢喜的事情。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+她说她谈恋爱了，我一开始算是挺惊讶的，但过了一会这个惊讶就越发扩散开来。小姑娘一直秉承着一个大大咧咧的原则，难得能够作出如此大步的决定，完全自我的狂热与赤诚，无与伦比的表达欲与分享欲——她真的很投入。从小到大已经梳理了朋友们的太多感情故事，我也知道什么时候该说些什么时候要收敛些，跟她叮嘱了一句之后就祝她幸福了（怎么这话说的像是苦主一样）。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+两个月不咋联系，联系的因就是“恋爱分享”，此番欢喜让一个老年人很难顶得住，一开启话匣子我都能顺着网线看到她头上的UNSTOPPABLE几个大字。“我从来都不知道原来谈恋爱这么爽，我要跟他谈一辈子的恋爱。”我看着这句话陷入了深深的沉思，就像是落在以前，在别处看到这句话能在我心中掀起滔天巨浪，可如今可能未曾动摇哪怕是一阵涟漪。我像是缺少了一些人生体验一样，面对着这句话存有的是质疑与无奈，像是跳过了人生之中的某个阶段，已经不再相信那个阶段的道理。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+她欢喜，我也欢喜；但她明白，我不明白。浮生渐渐，丝缕缠留。有时候望见了结果，就不太会考虑那些过程，明明是一个理想主义的人，却被现实主义的不信任深深地束缚着。一束花、一句话、一点点试探、一段段陪伴，条件是什么，代价又是什么，在我看来生活中处处充满了思虑与不安全感，不是妄自菲薄，而是直面现实。就像跌倒次数多了，没有忘记该如何爬起来，但也没有什么理由继续向前奔跑了，千疮百孔的灵魂化作了一个紧缩的刺猬，向着广袤的蓝天用力地膨胀开锋利的尖刺。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+有点遗憾，就像是66的语音助手因为经常被唤起而被我关闭以防打扰工作一样，有些时候人走着走着就散了，没有什么理由，要是坚定地说下去，那就是你们在彼此的心中都没有一个靠前的位置。她不挂念你，你也不会心痛，越来越像是“相濡以沫，不如相忘于江湖”罢。朋友说我有一段段很长时间的和异性做朋友的经历，他说那样不好，按照他的说法，几个月之内凡是看上的异性，要么拿下，要么直接溜之大吉。我不知道该怎么回答他，可能我就是这样的一个人，交流沟通这档子事，权当是在悟道罢了。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+“你说对了，我现在真的很上头。”
+
+“没事，那就祝你幸福哦。”
+
+“你也要幸福。”
+
+“托你的福，一定会的。”
