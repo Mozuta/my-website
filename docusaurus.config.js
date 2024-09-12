@@ -43,23 +43,42 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Mozuta/my-website',
+          /*editUrl:
+            'https://github.com/Mozuta/my-website',*/
         },
+        
         blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
+        
+        
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Mozuta/my-website',
+          /*editUrl:
+            'https://github.com/Mozuta/my-website',*/
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+        },
+        pages: {
+          path: 'src/pages',
+          routeBasePath: '',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          mdxPageComponent: '@theme/MDXPage',
+          remarkPlugins: [],
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -93,7 +112,7 @@ const config = {
             label: 'Doc',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/serial/intro', label: 'Serial', position: 'left'},
+          {to: '/DD', label: 'Extra', position: 'left'},
           
           {
             href: 'https://github.com/Mozuta/my-website',
@@ -113,12 +132,16 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Docs-Basics',
-                to: '/docs/category/doc---basics',
+                label: 'Tech-Basics',
+                to: '/docs/category/tec---basics',
               },
               {
-                label: 'Docs-Extras',
-                to: '/docs/category/doc---extras',
+                label: 'Tech-Extras',
+                to: '/docs/category/tec---extras',
+              },
+              {
+                label: 'Nov-Basics',
+                to: '/docs/category/nov---basics',
               },
             ],
             
@@ -128,11 +151,11 @@ const config = {
             items: [
               {
                 label: 'Darling Detectives',
-                to: '/docs/category/doc---extras',
+                to: '/docs/category/darling-detectives',
               },
               {
                 label: 'Void Veins',
-                to: '/docs/category/doc---extras',
+                to: '/docs/category/void-veins',
               },
               
             ],

@@ -1,5 +1,5 @@
 ---
-slug: long-blog-post
+slug: lite-life-happiness
 title: 浮生欢喜
 authors: Yohann
 tags: [半日谈]

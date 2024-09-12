@@ -13,6 +13,16 @@ template:
   permalink: /半日谈
   description: 半日有话半日说
 
+Darling Detectives:
+  label: Darling Detectives
+  permalink: /Darling Detectives
+  description: An adventure for the youth.
+
+Void Veins:
+  label: Void Veins
+  permalink: /Void Veins
+  description: Normal life, normal live.
+
 hello:
   label: Hello
   permalink: /hello
