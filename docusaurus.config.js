@@ -97,7 +97,7 @@ const config = {
         title: 'Hexite',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/HEX_big.png',
         },
         items: [
           {

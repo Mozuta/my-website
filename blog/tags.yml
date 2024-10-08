@@ -13,6 +13,16 @@ template:
   permalink: /半日谈
   description: 半日有话半日说
 
+攻略:
+  label: 攻略
+  permalink: /攻略
+  description: 一些小小的生活/游戏感悟
+
+GH:
+  label: Gloom Haven
+  permalink: /Gloom Haven
+  description: Gloom Haven，一款前世界第一桌游，拥有德式的重策略精算与美式的超带感剧情冒险。
+
 Darling Detectives:
   label: Darling Detectives
   permalink: /Darling Detectives
@@ -22,6 +32,11 @@ Void Veins:
   label: Void Veins
   permalink: /Void Veins
   description: Normal life, normal live.
+
+Two Or One:
+  label: Two Or One
+  permalink: /Two Or One
+  description: Just me, myself and I.
 
 hello:
   label: Hello
